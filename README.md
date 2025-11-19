@@ -73,6 +73,8 @@ disp(a, "Denominator coefficients (a):");
 
 <img width="1010" height="586" alt="image" src="https://github.com/user-attachments/assets/8897222f-a2d2-469a-9d09-73622986a47d" />
 
+
+
 ## RESULT: 
 
 A 3rd-order Chebyshev Type I high-pass filter was designed with cutoff frequency 1500 Hz and sampling frequency 5000 Hz. The frequency response shows ripple in the passband and sharp attenuation in the stopband.
