@@ -70,7 +70,6 @@ disp(a, "Denominator coefficients (a):");
 
 ## OUTPUT (HPF) : 
 
-
 <img width="1010" height="586" alt="image" src="https://github.com/user-attachments/assets/8897222f-a2d2-469a-9d09-73622986a47d" />
 
 
